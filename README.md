@@ -3,12 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cirkan" alt="cirkan" /> </p>
 
-- 🌱 I’m currently learning **TypeScript & TailwindCSS**
+<p align="center"> - 🌱 I’m currently learning **TypeScript & TailwindCSS**</p>
 <p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/CirkaN](https://github.com/CirkaN) </p>
+<p align="center"> - 📫 How to reach me **cirkovic.developer@gmail.com** </p>
 
 
 
-- 📫 How to reach me **cirkovic.developer@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
