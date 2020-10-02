@@ -20,4 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirkan&layout=compact" alt="cirkan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cirkan&show_icons=true" alt="cirkan" /></p>
