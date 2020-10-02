@@ -4,8 +4,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cirkan" alt="cirkan" /> </p>
 
 - 🌱 I’m currently learning **TypeScript & TailwindCSS**
+<p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/CirkaN](https://github.com/CirkaN) </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/CirkaN](https://github.com/CirkaN)
+
 
 - 📫 How to reach me **cirkovic.developer@gmail.com**
 
