@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikola</h1>
 <h3 align="center">A passionate backend developer from Serbia</h3>
-<center>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cirkan" alt="cirkan" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cirkan" alt="cirkan" /> </p>
 
 - 🌱 I’m currently learning **TypeScript & TailwindCSS**
 
